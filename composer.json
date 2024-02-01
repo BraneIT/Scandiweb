@@ -1,0 +1,14 @@
+{
+  "name": "vendor/scandiwebtask",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Scandioop\\Controllers\\": "src/Controllers/",
+      "Scandioop\\Models\\": "src/Models/",
+      "Scandioop\\Router\\": "src/Router/",
+      "Scandioop\\Includes\\": "src/Includes/",
+      "Scandioop\\Services\\": "src/Services/",
+      "Scandioop\\": "src/"
+    }
+  }
+}
