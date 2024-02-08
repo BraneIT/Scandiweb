@@ -11,8 +11,6 @@ use Scandioop\Models\Furniture;
 use PDO;
 use PDOException;
 
-
-
 class ProductController
 {
       private $databaseConnection;

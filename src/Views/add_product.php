@@ -12,7 +12,7 @@
         <h2>Add Product</h2>
         <div class="buttons-wrapper">
             <button type="submit" id="save-form-btn" name="save_product" class="buttons">SAVE </button>
-            <a href="./" id="delete-product-btn" class="buttons">CANCEL</a>
+            <a href="./"  class="buttons">CANCEL</a>
         </div>
     </div>
     
